@@ -1,0 +1,47 @@
+a, a:hover {
+  color: #4e0e4b;
+}
+
+
+/* Back to top button */
+.back-to-top {
+  background: #4e0e4b;
+  color: #fff;
+}
+
+
+.back-to-top:focus {
+  background: #4e0e4b;
+  color: #fff;
+}
+
+.back-to-top:hover {
+  background: #4e0e4b;
+  color: #fff;
+}
+
+.navbar-default {
+  background: #4e0e4b;
+}
+
+.form-control:focus {
+  border-color: #4e0e4b;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #4e0e4b;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #4e0e4b;
+}
+
+.service .carousel-indicators .active {
+  background: #4e0e4b;
+}
+
+.btn-theme {
+  background: #4e0e4b;
+}
+
+.contact-widget i {
+  color: #4e0e4b;
+}
+
+/* .navbar-default .navbar-nav>li>a {
+  color: #777;
+} */
