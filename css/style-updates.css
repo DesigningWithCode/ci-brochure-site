@@ -3,6 +3,15 @@ padding-bottom: 0;
 }
 
 #bottom-widget {
+background-color: #f8f8f8;
 padding-top: 30px;
 }
 
+.text-highlight {
+color: #9bbb70;
+font-weight: bold;;
+}
+
+footer {
+background-color: #9bbb70;
+}
